@@ -1,6 +1,6 @@
 SELECT u.name, u.email
 FROM PERSON p, WORK w
-WHERE p.id_work = 1 OR p.age > 30
+-- SOME LINE 
 
 /*
 |--------------------------

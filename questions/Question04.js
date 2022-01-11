@@ -14,7 +14,7 @@ const removeDuplicates02 = (elements = []) => {
 
   for (const element of elements) {
     if (!existInArray(uniqueElements, element)) {
-      uniqueElements.push(element)
+      // some line
     }
   }
 
